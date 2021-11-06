@@ -9,9 +9,9 @@ on:
 env:              
   ROM_URL: 'https://bigota.d.miui.com/21.11.3/miui_TUCANA_21.11.3_9f01c3e370_11.0.zip'
   ZIP_NAME: 'update.zip'
-  OS_TYPE: 'MIUI'
+  OS_TYPE: 'miui'
   BUILD_TYPE: 'ab'
-  REPACK_NAME: 'SGSI.zip'
+  REPACK_NAME: 'tucana.zip'
   VERSION: '10'
   upload_action-gh-release: 'true'
   SETUP: 'true'
