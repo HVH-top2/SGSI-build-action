@@ -7,9 +7,9 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://ip4173122781.mobgslb.tbcache.com/Firmware/Flyme/15/8.0.5.0/cn/20210616123154/a1e7a1d5/update.zip?ali_redirect_domain=firmware.meizu.com&ali_redirect_ex_ftag=a727d1f1a6b7a418af7bd9a99e7604e5bca8c908a60d5257&ali_redirect_ex_tmining_ts=1630160857&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100'
+  ROM_URL: 'https://bigota.d.miui.com/21.11.3/miui_TUCANA_21.11.3_9f01c3e370_11.0.zip'
   ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Flyme'
+  OS_TYPE: 'MIUI'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '10'
